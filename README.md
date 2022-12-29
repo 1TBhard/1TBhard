@@ -13,6 +13,6 @@
 
 ### Next Learning Plan
 
-- [ ] Three.JS
+- [ ] ThreeJS
 - [ ] React Native
-- [ ] Nest.JS
+- [ ] NestJS
